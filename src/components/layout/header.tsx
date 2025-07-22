@@ -30,7 +30,7 @@ export function Header() {
                     <Link href="/" className="group">
                         <div className='font-serif text-2xl font-light tracking-wide'>
                         <span className='text-white group-hover:text-gray-300 transition-colors duration-300'> Travelers</span>
-                        <span className='text-blue-400 ml-2'>Journal</span>
+                        <span className='text-acc ml-2'>Journal</span>
                         </div>
                     </Link>
 
