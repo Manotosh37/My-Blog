@@ -1,10 +1,12 @@
-import React from "react";
-import { Header } from "@/components/layout/header";
+import { getAllPosts } from '@/data/posts[md]/posts'
+import { PostCard } from '@/components/blog/postcard'
 
-export default function main() {
-    return(
+export default async function Home() {
+    const posts = await getAllPosts()
+    const featuredPosts = posts.slice(0, 3)
+    
+    return (
         <>
-        <Header />
         </>
     )
 }
