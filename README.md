@@ -32,7 +32,7 @@ Welcome, my personal travel blog built with a modern web stack. It’s fast, min
 
 ## 📸 Live Blog
 
-**🔗 **  
+🔗 
 
 ---
 
