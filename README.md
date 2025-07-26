@@ -39,7 +39,7 @@ Welcome, my personal travel blog built with a modern web stack. It’s fast, min
 ## 🚀 Getting Started (For Dev Use Only)
 
 ```bash
-git clone https://github.com/your-username/nomadlog.git
-cd nomadlog
+git clone https://github.com/your-username/My-Blog.git
+cd My-Blog
 npm install
 npm run dev
