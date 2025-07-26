@@ -1,4 +1,4 @@
-# 🌍 Traveller's Journal — My Open Source Travel Blog
+# 🌍 Traveller's Journal — My Personel Travel Blog
 
 Welcome, my personal travel blog built with a modern web stack. It’s fast, minimalist, looking to share experiences and code.
 
